@@ -1,0 +1,21 @@
+button {
+    border: 1px solid #eee;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    outline: none;
+    &[disabled] {
+      cursor: not-allowed
+    }
+}
+.btn-save {
+    background: green;
+    color: #fff;
+}
+.btn-delete {
+    background: red;
+    color: #fff;
+}
+.btn-cancel {
+    background: #aaa;
+    color: #fff;
+}
