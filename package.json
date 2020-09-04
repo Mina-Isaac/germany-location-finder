@@ -45,6 +45,6 @@
   "devDependencies": {
     "@types/react-redux": "^7.0.8",
     "@types/redux-thunk": "^2.1.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
